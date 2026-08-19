@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0009-palindrome-number) |
 ## Binary Search
 |  |
