@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0724-find-pivot-index) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Ternary Search
 |  |
