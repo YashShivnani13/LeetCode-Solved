@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
