@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
