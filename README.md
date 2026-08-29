@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
