@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
