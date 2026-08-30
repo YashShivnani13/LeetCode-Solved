@@ -1,45 +1,49 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-
         vector<int> ans;
+
         int row = matrix.size();
         int col = matrix[0].size();
+
         int count = 0;
         int total = row*col;
 
-        int startingRow = 0;
-        int startingCol = 0;
-        int endingRow = row-1;
-        int endingCol = col-1;
+        int startRow = 0;
+        int endRow = row-1;
+        int startCol = 0;
+        int endCol = col-1;
 
         while(count<total){
 
-            for(int i = startingCol; count<total && i<=endingCol; i++){
-                ans.push_back(matrix[startingRow][i]);
+            // Left -> Right
+            for(int i = startCol; count<total && i<=endCol; i++){
+                ans.push_back(matrix[startRow][i]);
                 count++;
             }
-            startingRow++;
+            startRow++;
 
-            for(int i = startingRow ; count<total && i<=endingRow; i++){
-                ans.push_back(matrix[i][endingCol]);
+            // Top -> Bottom
+            for(int i = startRow; count<total && i<=endRow; i++){
+                ans.push_back(matrix[i][endCol]);
                 count++;
             }
-            endingCol--;
+            endCol--;
 
-            for(int i = endingCol; count<total && i>= startingCol; i--){
-                ans.push_back(matrix[endingRow][i]);
+            // Right -> Left
+            for(int i = endCol; count<total && i>=startCol; i--){
+                ans.push_back(matrix[endRow][i]);
                 count++;
             }
-            endingRow--;
+            endRow--;
 
-            for(int i = endingRow; count<total && i>=startingRow; i--){
-                ans.push_back(matrix[i][startingCol]);
+            // Bottom -> Top
+            for(int i = endRow; count<total && i>=startRow; i--){
+                ans.push_back(matrix[i][startCol]);
                 count++;
             }
-            startingCol++;
-
+            startCol++;
         }
         return ans;
     }
-}; 
+};
