@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1207-unique-number-of-occurrences) |
 ## Queue
 |  |
