@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
