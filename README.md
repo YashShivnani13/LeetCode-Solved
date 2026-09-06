@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0078-subsets) |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
