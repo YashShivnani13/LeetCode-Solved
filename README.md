@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 ## Binary Search
