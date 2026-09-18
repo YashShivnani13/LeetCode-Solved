@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0724-find-pivot-index) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Ternary Search
 |  |
