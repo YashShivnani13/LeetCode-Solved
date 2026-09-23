@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
