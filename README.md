@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0078-subsets) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
