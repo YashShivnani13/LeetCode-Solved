@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0058-length-of-last-word) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0069-sqrtx) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
