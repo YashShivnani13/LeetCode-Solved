@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Matrix
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
