@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0796-rotate-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
