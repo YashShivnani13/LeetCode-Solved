@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YashShivnani13/LeetCode-Solved/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
